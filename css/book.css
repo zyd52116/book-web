@@ -1,0 +1,21 @@
+/** book common style */
+body{
+    padding-top:50px;
+}
+.wang{
+    padding: 10px 15px;
+}
+#form-box{
+    padding: 20px 0px;
+}
+#pagination{
+    text-align: center;
+}
+#container-footer{
+    text-align: center;
+}
+#container-context{
+    height:auto;
+    min-height:700px;
+    _height:700px;
+}
